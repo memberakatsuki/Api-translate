@@ -43,3 +43,5 @@ if __name__ == '__main__':
     result = app.translate(text,opc)
     print('\033[0;0m\033[31mTradução:\033[31m'.center(80))
     print(f'\033[32m{result}\033[0;0m\n')
+
+    
