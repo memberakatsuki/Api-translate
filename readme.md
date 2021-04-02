@@ -1,0 +1,1 @@
+CONSUMINDO API DE TRADUÇÂO - SITE DA API: https://gotit.ai/
